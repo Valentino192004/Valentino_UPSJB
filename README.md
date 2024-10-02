@@ -14,7 +14,6 @@ Encuéntrame en la web 🌎:
 ⭐️ From [ValentinoDev](https://github.com/Valentino192004?tab=repositories)
  
 ---
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Dreyuix&show_icons=true&theme=transparent)
 
 
 <!--

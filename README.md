@@ -2,23 +2,23 @@
 ![fbads-angular](https://github.com/user-attachments/assets/8ec3a416-f3c5-4ebe-800b-0fe73fe94d3a)
 
 
-Soy un estdiante de ingenieria de sistema mi nombre es Valentino Oriundo un apasionado por hacer que el código abierto sea más sencillo y accesible, crear tecnología en IoT para elevar a las personas y construir comunidades. Experto en Angular y Spring Boot
+Soy Valentino Oriundo, estudiante de Ingeniería de Sistemas y apasionado por hacer que el código sea más sencillo y accesible. Me encanta crear tecnología IoT para mejorar la vida de las personas y construir comunidades en torno a ella. Tengo experiencia en Angular y Spring Boot, y disfruto aplicando estas tecnologías para desarrollar soluciones innovadoras.
 
 Encuéntrame en la web 🌎:
-- Aprender en público en <a href="https://www.twitch.tv">Facebook</a> or <a href="https://www..">Drey.dev</a> 📹 ✍🏾
+- Mi red social más conocido como el catador de princesas <a href="https://www.twitch.tv">Facebook</a> or <a href="https://www.facebook.com/profile.php?id=100005577738627">Valentino.dev</a> 📹 ✍🏾
 - Experimentando con las interacciones <a href="https://codepen.io/pen/"> Codepen</a> 🏓
-- Compartir actualizaciones <a href="https://www.linkedin.com/in/julio-melendez-ramos-630a202a0/">LinkedIn</a> 💼
+- Compartir actualizaciones <a href="https://www.linkedin.com/feed/?trk=guest_homepage-basic_google-one-tap-submit">LinkedIn</a> 💼
 
 
 ---
-⭐️ From [Drey](https://github.com/Dreyuix)
+⭐️ From [ValentinoDev](https://github.com/Valentino192004?tab=repositories)
  
 ---
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Dreyuix&show_icons=true&theme=transparent)
 
 
 <!--
-**Dreyuix/Dreyuix** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**Valentino/MieldeAbeja** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
 
@@ -30,5 +30,5 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
-- Mentalidad Kimmich
+- ⚡ Mentalidad Kimmich
 -->

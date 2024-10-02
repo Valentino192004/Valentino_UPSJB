@@ -1,5 +1,6 @@
 # Hola 💬
-![logo1](https://github.com/Dreyuix/Dreyuix/assets/65123134/b610ada7-e668-44b9-80db-f3d030bb970b)
+![fbads-angular](https://github.com/user-attachments/assets/8ec3a416-f3c5-4ebe-800b-0fe73fe94d3a)
+
 
 Soy un estdiante de ingenieria de sistema mi nombre es Valentino Oriundo un apasionado por hacer que el código abierto sea más sencillo y accesible, crear tecnología en IoT para elevar a las personas y construir comunidades. Experto en Angular y Spring Boot
 
